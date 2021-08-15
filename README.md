@@ -5,7 +5,7 @@
  <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucaSantosSP&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaSantosSP&layout=compact&langs_count=16&theme=merko"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaSantosSP&layout=compact&langs_count=16&theme=merko&exclude_repo=RunnanGamem"/>
 </div>
 
  ### Estou estudando
