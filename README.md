@@ -14,6 +14,7 @@
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg">
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg">
+  <img align="center" alt="Lucas-ReactNative" height="30" width="40" src="[react](https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg)">
   <img align="center" alt="Lucas-Mysql" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
   <img align="center" alt="Lucas-Git" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg">
   <img align="center" alt="Lucas-Jenkins" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jenkins-Dark.svg">
